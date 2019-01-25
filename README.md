@@ -1,5 +1,6 @@
 # NLP-addresses-normalisation-and-parsing
 Minyi Liang
+
 minyi_liang@hotmail.com
 
 
@@ -37,7 +38,7 @@ America“, date_iso: “2009-05-03”, ranking: “xxx”}
 The files contained in this repo is as follows:
 
 4.1. A detailed description of the design decisions (libraries, tradeoffs, etc.), how I evaluated
-your results, as well as ideas for further improvement (see explainations.pdf).
+the results, as well as ideas for further improvement (see explainations.pdf).
 
 4.2. A flowchart of the processing of the input data (see Flowchart.pdf).
 
