@@ -46,7 +46,6 @@ Another example:
 
 
 
-
 5. Deliverables
 
 The files contained in this repo is as follows:
