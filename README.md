@@ -29,12 +29,18 @@ output.
 The unstructured data will be turned into structured data. For example:
 
 "May 2009" 
+
 → 
+
 {address: ““, date_iso: “2009-05-01”, ranking: “xxx”}
 
+
 "20 Rayman House, Augustus Road, London, UK, 03/05/2009" 
+
 → 
+
 {flat number: "15", house: "Rayman House", road: "Augustus Road", city: "London", country: "UK", date_iso: “2009-05-03”, ranking: “xxx”}
+
 
 
 
