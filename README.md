@@ -26,7 +26,9 @@ format: YYYY-MM-DD. The location information are further parsed into city, count
 Additionally, a ranking concept is provided that indicates the quality of the
 output. 
 
-The unstructured data will be turned into structured data. For example:
+4. Output data
+The unstructured data will be turned into structured data. 
+For example:
 
 "May 2009" 
 
@@ -34,6 +36,7 @@ The unstructured data will be turned into structured data. For example:
 
 {address: ““, date_iso: “2009-05-01”, ranking: “xxx”}
 
+Another example:
 
 "20 Rayman House, Augustus Road, London, UK, 03/05/2009" 
 
@@ -44,15 +47,15 @@ The unstructured data will be turned into structured data. For example:
 
 
 
-4. Deliverables
+5. Deliverables
 
 The files contained in this repo is as follows:
 
-4.1. A detailed description of the design decisions (libraries, tradeoffs, etc.), how I evaluated
+5.1. A detailed description of the design decisions (libraries, tradeoffs, etc.), how I evaluated
 the results, as well as ideas for further improvement (see explainations.pdf).
 
-4.2. A flowchart of the processing of the input data (see Flowchart.pdf).
+5.2. A flowchart of the processing of the input data (see Flowchart.pdf).
 
-4.3. A functional python module (see Entity_Parsing.py).
+5.3. A functional python module (see Entity_Parsing.py).
 
-4.4. JSON files of the input (see data.json) and output data (result.json).
+5.4. JSON files of the input (see data.json) and output data (result.json).
