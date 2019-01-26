@@ -48,11 +48,11 @@ Another example:
 
 The files contained in this repo is as follows:
 
--- A detailed description of the design decisions (libraries, tradeoffs, etc.), how I evaluated
+- A detailed description of the design decisions (libraries, tradeoffs, etc.), how I evaluated
 the results, as well as ideas for further improvement (see explainations.pdf).
 
--- A flowchart of the processing of the input data (see Flowchart.pdf).
+- A flowchart of the processing of the input data (see Flowchart.pdf).
 
--- A functional python module (see Entity_Parsing.py).
+- A functional python module (see Entity_Parsing.py).
 
--- JSON files of the input (see data.json) and output data (result.json).
+- JSON files of the input (see data.json) and output data (result.json).
