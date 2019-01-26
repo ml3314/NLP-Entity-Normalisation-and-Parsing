@@ -23,6 +23,7 @@ input.
 This project is to separate the location and date information and normalise the date to the following the format: YYYY-MM-DD. The location information are further parsed into city, country and road. Additionally, a ranking concept is provided that indicates the quality of the output. 
 
 4. Output data
+
 The unstructured data will be turned into structured data. 
 
 For example:
